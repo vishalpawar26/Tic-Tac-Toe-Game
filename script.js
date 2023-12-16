@@ -44,6 +44,7 @@ let gameTied = () => {
 
 let newGame = () => {
   turn = 'X';
+  playerTurn.textContent = `Current Player: ${turn}`;
   count = 0;
   gameCompleted = false;
   enableBoxes();
