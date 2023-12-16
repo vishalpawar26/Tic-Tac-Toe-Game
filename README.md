@@ -19,5 +19,5 @@ Welcome to my Tic Tac Toe game! This classic and timeless game is implemented us
  
 Feel free to explore the code, make improvements, and have fun playing Tic Tac Toe! 
 
-Demo: https://vishalpawar26.github.io/Tic-Tac-Toe-Game/
+<b>Demo:</b> https://vishalpawar26.github.io/Tic-Tac-Toe-Game/
  
