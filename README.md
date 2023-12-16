@@ -4,16 +4,20 @@ Welcome to my Tic Tac Toe game! This classic and timeless game is implemented us
 
 <h2>Features:</h2>
 
-Responsive design for seamless gameplay on various devices.
-Two-player mode for head-to-head competition.
-Simple and intuitive user interface.
+<ul>
+<li>Responsive design for seamless gameplay on various devices.</li>
+<li>Two-player mode for head-to-head competition.</li>
+<li>Simple and intuitive user interface.</li>
+</ul>
 
 <h2>How to Play:</h2>
 
-Open the demo link to play instantly.
-
-Alternatively, clone the repository and open the index.html file in your browser.
-Feel free to explore the code, make improvements, and have fun playing Tic Tac Toe!
+<ol>
+ <li>Open the demo link to play instantly.</li>
+ <li>Alternatively, clone the repository and open the index.html file in your browser.</li>
+</ol>
+ 
+Feel free to explore the code, make improvements, and have fun playing Tic Tac Toe! 
 
 Demo: https://vishalpawar26.github.io/Tic-Tac-Toe-Game/
  
